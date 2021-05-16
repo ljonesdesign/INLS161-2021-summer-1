@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Lawrence Blake Jones Blog</title>
+        <link>https://ljonesdesign.github.io./blog</link>
+        <description>Lawrence Blake Jones Blog</description>
+        <lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[File Naming Conventions]]></title>
+            <link>https://ljonesdesign.github.io./INLS161-2021-summer-1/blog/file-naming-conventions</link>
+            <guid>file-naming-conventions</guid>
+            <pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[File names with umlauts, accents, etc, can cause issues on older systems. They should work fine on newer systems that are up-to-date.]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ljonesdesign.github.io./blog</id>
+    <title>Lawrence Blake Jones Blog</title>
+    <updated>2021-03-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ljonesdesign.github.io./blog"/>
+    <subtitle>Lawrence Blake Jones Blog</subtitle>
+    <icon>https://ljonesdesign.github.io./img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[File Naming Conventions]]></title>
+        <id>file-naming-conventions</id>
+        <link href="https://ljonesdesign.github.io./INLS161-2021-summer-1/blog/file-naming-conventions"/>
+        <updated>2021-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[File names with umlauts, accents, etc, can cause issues on older systems. They should work fine on newer systems that are up-to-date.]]></summary>
+    </entry>
+</feed>
