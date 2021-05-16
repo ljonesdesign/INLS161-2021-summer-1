@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Lawrence Blake Jones',
-  tagline: 'INLS 161 Spring Summer 1',
+  tagline: 'INLS 161: Tools for Information Literacy',
   url: 'https://ljonesdesign.github.io.',
   baseUrl: '/INLS161-2021-summer-1/',
   onBrokenLinks: 'throw',
@@ -21,7 +21,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'INLS 161 Summer 1 2021',
+          label: 'INLS 161 Summer 2021',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {

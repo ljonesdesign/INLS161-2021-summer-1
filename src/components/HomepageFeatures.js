@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Panopto',
+    Svg: require('../../static/img/panopto.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        You will need to sign into your <a href="https://uncch.hosted.panopto.com/">UNC Panopto</a> account in order to view class videos and recordings.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Zoom',
+    Svg: require('../../static/img/zoom.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This is an online synchronous class. You will need to be <a href="https://unc.zoom.us/">logged into Zoom</a> in order to join the class sessions. Links to the class sessions will be in Sakai.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Sakai',
+    Svg: require('../../static/img/sakai.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Log into  <a href="https://sakai.unc.edu/welcome/">Sakai</a> to submit assignments and access important class information and resources.
       </>
     ),
   },
