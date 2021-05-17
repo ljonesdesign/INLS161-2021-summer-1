@@ -1,6 +1,6 @@
 ---
 title: Weekend 1
-sidebar_label: Sat & Sun First Weekend
+sidebar_label: WEEKEND 1 NOTES
 sidebar_position: 4
 
 ---

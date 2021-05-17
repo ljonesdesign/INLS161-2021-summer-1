@@ -72,7 +72,9 @@ Everything in this class is about empowering you to meet the complex demands of 
 > To err is human, to forgive is divine.
 
 
-## Task 01.01 Create your first forum posting
+## Task 01.01 
+
+### Create your first forum posting
 
 Your initial posting should be a repeat of what you will do in the first lab/recitation session. Include it it at least the following:
 
@@ -85,3 +87,70 @@ Your initial posting should be a repeat of what you will do in the first lab/rec
 
 Of course, you may add anything else that you wish.
 
+## Task 01.02
+
+### Sign up for at least two newsletters
+
+Sign up for at least two newsletters and tell us which ones you subscribed to in your task 01.01 first forum posting.
+
+### Required subscriptions
+
+#### Sign up for these two newsletters
+
+![image of alertbox page](/img/alertbox.png)
+
+1.  [Alertbox](https://www.nngroup.com/articles/subscribe/): Current Issues in Web Usability. Jakob Nielsen's biweekly column on how to design more usable websites
+![image of technology review newsletters signup page](/img/mit.newsletters.png)
+
+2.  [Technology Review](https://www.technologyreview.com/newsletter-preferences): a journal of links to articles about technology developments (in their technical, social, and policy aspects). Subscribe at least to The Download.
+
+### Your choice
+
+#### You may, depending on your interests, wish to sign up for one or more of these newsletters, but this is purely optional.
+
+![image of Search Engine Watch newsletters signup page](/img/sewatch.png)
+
+[Search Engine Watch](https://www.searchenginewatch.com/) : tips about internet search engines & search engine submission
+
+![image of First Monday signup page](/img/firstmonday.png)
+
+[FirstMonday](https://firstmonday.org/ojs/index.php/fm/user/register) : a peer-reviewed scholarly journal from the University of Illinois, Chicago
+
+![image of Internet Scout Report signup page](/img/scoutreport.png)
+
+[Scout Report](https://scout.wisc.edu/archives/index.php?P=RequestAccount): a publication of the Internet Scout Research Group, published every Friday both on the Web and by email subscription, it provides a way to stay informed of valuable STEM and humanities resources on the Internet.
+
+
+## Task 01.03
+
+#### We need to set up our laptops to be able to fully engage in client-server relationships on the UNC network
+
+#### Off-campus access to the UNC networks requires the use of a Virtual Private Network (VPN).
+
+A Virtual Private Network (VPN) provides an encrypted connection (secure tunnel) from off campus to the UNC-Chapel Hill internal network. VPN allows you to access campus applications and work securely, just as if you were physically on campus. Access to some campus applications from off campus require the use of VPN (i.e., [Virtual Computing Lab](https://vcl.unc.edu/index.php?mode=selectauth), [Virtual Lab](https://uncch.service-now.com/sp?id=kb_article_view&sysparm_article=KB0010180&sys_kb_id=941ef66bdb6800901fb6ef070596190f), and [ConnectCarolina](https://connectcarolina.unc.edu/)).
+
+Go to [ITS's VPN installation page](https://help.unc.edu/sp?id=kb_article&sys_id=87af20281b7f4c90b7de21b5ec4bcb99), determine your client's operating system, and then download and install the Cisco AnyConnect VPN Client that is appropriate for your laptop, tablet, and/or phone.
+
+![VPN login](/img/vpn.png)
+
+When you have successfully installed it on your device, put a screenshot of the installation in your [assignments space](https://sakai.unc.edu/x/EvvsGz) in Sakai to let us know that you have it.
+
+### We may as well begin here to use a consistent file naming convention.
+
+The structure takes advantage of how operating systems want to index things.
+
+##### Things to remember about naming your files and directories
+
+To do
+
+*   A good format for dates in YYYYMMDD. This format ensures that your files automatically sort in chronological order.
+*   Try to make filenames as short as possible, while remaining meaningful.
+*   Use capital letters to delimit words, as in `````UseCapitalLettersToDelimitWords```.
+*   Always use leading zeroes in a sequence of numbers, so the sequence will read 01, 02, 03, 11 and not 1, 11, 2, 3.
+
+**NOT to do**
+
+*   Even if your operating system allows you, do not save files containing these characters <span class="attention">~ ! @ # $ % ^ & * ( ) ` ; > < ? , [ ] { } ' " |</span> . You may encounter difficulties searching for or opening them
+*   Do not leave spaces in filenames.  
+  
+    Some software will not recognize file names with spaces.

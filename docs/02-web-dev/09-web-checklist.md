@@ -1,5 +1,7 @@
 ---
 title: Website Checklist
+sidebar_label: 06-04 Fri | Website Lab
+sidebar_position: 9
 ---
 
 Here is a checklist that you can use to make sure you have all the parts of your website done before posting to OPAL and submitting.

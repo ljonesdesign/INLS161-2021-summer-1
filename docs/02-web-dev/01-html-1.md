@@ -4,20 +4,14 @@ sidebar_label: 05-25 Tue | HTML 1
 sidebar_position: 1
 ---
 
-## Class recordings
-Recordings of this recitation are now posted the folder that I have shared with you on Panopto: <https://uncch.hosted.panopto.com/>. I have updated the Table of Contents to help you find the section you need. I overlooked restarting the recording for the HTML overview part for the 8:00 a.m. class; but, I did record it in the 10:10 class.
-
-Find it in the table of contents around the 44:00 minute mark:
-![Panopto Table of Contents](/img/panopto-toc.png)
-
-## Basics Wrapup and Forum Post 1
+## Basics Wrap-up and Forum Post 1
 Please wrap up any outstanding Basics assignments very soon. You should not be locked out of forum posting if you have fallen behind. It is better to be late than to skip making a post. Don't post two posts in one folder. If you want to make extra posts more often, go to the next folder. This is important for grading.
 
 ## Hard Code a Web Page
 
 1. Right click on your desktop and create a folder.
 2. Name the folder task02-01.
-3. Open up your text editor. (It is helpful to use a text editor that has a project sidebar to follow along in class. VS Code and Brackets show project files in a sidebar. If you are using a non-sidbar editor, you will need to create files and save them in the finder (Mac) or explorer (PC). I will demo both in class.
+3. Open up your text editor. (It is helpful to use a text editor that has a project sidebar to follow along in class. VS Code and Brackets show project files in a sidebar. If you are using a non-sidebar editor, you will need to create files and save them in the finder (Mac) or explorer (PC). I will demo both in class.
 4. Open the folder:
    * Drag the folder onto your text-editor side bar,
    * or choose to open the folder using the menu or icons.

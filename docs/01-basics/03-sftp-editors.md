@@ -1,7 +1,7 @@
 ---
 title: SFTP and editors
-sidebar_label: 05-24 Mon | SFTP & Editors
-sidebar_position: 5
+sidebar_label: 05-21 Fri | SFTP & Editors
+sidebar_position: 3
 ---
 
 ### Recommended SFTP Programs

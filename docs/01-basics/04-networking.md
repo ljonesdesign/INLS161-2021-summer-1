@@ -1,7 +1,7 @@
 ---
 title: Networking
-sidebar_label: 05-21 Fri | Networking
-sidebar_position: 3
+sidebar_label: 05-24 Mon | Networking
+sidebar_position: 5
 
 ---
 

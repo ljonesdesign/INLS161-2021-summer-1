@@ -94,9 +94,25 @@ How to log in to OPAL
 
 After you have uploaded your files and set the correct permissions, your webpage will be viewable at https://opal.ils.unc.edu/~onyen/ . This will take you to the index page in your public_html folder; you can also navigate directly to other pages or subfolders you've added, such as https://opal.ils.unc.edu/~onyen/my_folder/my_page.html
 
-## Create a Directory
 
-[Create a Directory](https://ils.unc.edu/courses/2020_spring/inls161_001/02b.02.new-directory.html)
+## Task 01.04: Create a Directory
+
+Remember our convention.
+
+```
+commands > argument > value
+```
+
+Log on to your Opal account using a terminal connection program and enter a temporary shell session at the command prompt (it should be $ in Unix).
+
+Change to your public_html directory.
+cd public_html
+
+Create a new subdirectory within public_html 
+
+The new directory doesn't have to be named "newdirectory",
+but you should get into the habit of using consistent and logical directory and file names.
+
 
 **Grading rubric:** You must follow file naming conventions: **NO SPACES**; no strange characters. Use hyphens or periods where you would have spaces. Try to stick with lowercase letters. After you have created your directory, open the related assignment and paste your link in the submission box.
 
