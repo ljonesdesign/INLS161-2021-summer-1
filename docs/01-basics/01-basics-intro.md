@@ -4,7 +4,7 @@ sidebar_label: 05-19 Wed | Introduction
 sidebar_position: 1
 ---
 
-We will spend some time today to get to know each other.
+We will spend some time today to get to know each other..
 
 ## First tool: Browser
 
