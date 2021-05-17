@@ -1,1 +1,0 @@
-(self.webpackChunkinls_161_2021_summer_1=self.webpackChunkinls_161_2021_summer_1||[]).push([[194],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"File Naming Conventions","permalink":"/INLS161-2021-summer-1/blog/file-naming-conventions"}]}')}}]);

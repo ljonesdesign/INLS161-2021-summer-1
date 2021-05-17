@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Lawrence Blake Jones Blog</title>
+        <title>INLS 161-001 Summer 2021 Blog</title>
         <link>https://ljonesdesign.github.io./blog</link>
-        <description>Lawrence Blake Jones Blog</description>
+        <description>INLS 161-001 Summer 2021 Blog</description>
         <lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

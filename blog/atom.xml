@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ljonesdesign.github.io./blog</id>
-    <title>Lawrence Blake Jones Blog</title>
+    <title>INLS 161-001 Summer 2021 Blog</title>
     <updated>2021-03-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ljonesdesign.github.io./blog"/>
-    <subtitle>Lawrence Blake Jones Blog</subtitle>
+    <subtitle>INLS 161-001 Summer 2021 Blog</subtitle>
     <icon>https://ljonesdesign.github.io./img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[File Naming Conventions]]></title>
