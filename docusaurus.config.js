@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Lawrence Blake Jones',
-  tagline: 'INLS 161: Tools for Information Literacy',
+  title: 'INLS 161-001 Summer 2021',
+  tagline: 'Tools for Information Literacy',
   url: 'https://ljonesdesign.github.io.',
   baseUrl: '/INLS161-2021-summer-1/',
   onBrokenLinks: 'throw',
@@ -11,18 +11,19 @@ module.exports = {
   projectName: 'INLS161-2021-summer-1', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Lawrence Blake Jones',
+      title: 'INLS 161 Summer 2021',
       logo: {
-        alt: 'Lawrence Jones Photo',
-        src: 'img/larry-jones-photo.jpg',
+        alt: 'old well logo',
+        src: 'img/unc-old-well-logo.png',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'INLS 161 Summer 2021',
+          label: 'All Lessons',
         },
+        {to: '/assignments', label: 'Assignments', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/ljonesdesign',

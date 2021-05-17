@@ -70,3 +70,18 @@ VALUE ADDED ITEM | 5.5 points
 Everything in this class is about empowering you to meet the complex demands of these very challenging times. This grade is not to cause you to worry or be anxious. Think of it as a gift. It is 5.5 points that you don't have to earn. Just be nice, kind, and communicative. Professionalism does not equal perfectionism.
 
 > To err is human, to forgive is divine.
+
+
+## Task 01.01 Create your first forum posting
+
+Your initial posting should be a repeat of what you will do in the first lab/recitation session. Include it it at least the following:
+
+1. your name and the name you prefer to be called
+2. your hometown (in whatever manner you chose to define the word "hometown")
+3. your class (first year, second, third, fourth, graduate student)
+4. your major
+5. what you hope to get out of this class
+6. and, the operating system on your personal laptop
+
+Of course, you may add anything else that you wish.
+

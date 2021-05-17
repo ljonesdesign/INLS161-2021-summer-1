@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            2021 Summer School 1 Sessions
+            Lessons Start Page
           </Link>
         </div>
       </div>

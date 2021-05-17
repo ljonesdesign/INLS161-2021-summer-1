@@ -31,9 +31,9 @@ If you are not using Fetch or you are using a PC, skip to [slide 16](https://doc
 
 [![Here is a link to a Fetch Presentation on Google Slides](/img/fetch-google-slides-thumbnail.png)](https://docs.google.com/presentation/d/1QGQjVMvFS3-lIgMI4BoESXnRnmit-cV2_5p-5dYlFhU/edit?usp=sharing)
 
-## Recommended Editor
+## Recommended Text Editor
 
-Use any Editor you like. My personal preference for teaching for both **PC and Mac** was [Visual Studio Code](https://code.visualstudio.com/) but the new update is too confusing for beginners, so I will be using [Brackets](http://brackets.io/). 
+Use any Text Editor you like. My personal preference for teaching for both **PC and Mac** is [Visual Studio Code](https://code.visualstudio.com/). This will be the best option for you if you do not already have a favorite editor. I do not recommend using textEdit on the Macintosh or Notepad on the PC or other very basic editors unless you are an advanced coder. (Notepad++ is an acceptable text editor).
 
 ## Starters
 
