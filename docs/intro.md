@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Start Here
 
-Welcome to INLS 161 Summer Session One, 2021! This site will serve as the focus of our session lessons. Log into Sakai to view the syllabus and other resources. 
+Welcome to INLS 161 Summer Session One, 2021! This site will serve as the focus of our session lessons. 
 
 ## Left Sidebar
 
