@@ -23,7 +23,6 @@ Part of your Value Added grade is to make four posts on the class blog this summ
 
 I will demo how to make a blog post today.
 
-If you would like to complete your semi-formal forum post short presentation  to do a starter, make a blog post before class. 
 
 ## Comment on Peer's posts
 VALUE ADDED ITEM 
