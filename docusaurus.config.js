@@ -24,10 +24,10 @@ module.exports = {
           label: 'All Lessons',
         },
         {to: '/assignments', label: 'Assignments', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Instructor Blog', position: 'left'},
         {
-          href: 'https://github.com/ljonesdesign',
-          label: 'GitHub',
+          href: 'https://infotools.web.unc.edu/',
+          label: 'Class Blog',
           position: 'right',
         },
       ],

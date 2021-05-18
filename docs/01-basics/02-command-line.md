@@ -4,26 +4,18 @@ sidebar_label: 05-20 Thu | Command Line
 sidebar_position: 2
 ---
 
-## Panopto Videos 
-
-:::tip
-**Permissions have already been set for your account. There is no need to set permissions.**
-:::
-
-I saw a few of these double extension issues when grading the VPN submissions:
+If you see this on OPAL:
 
 ```
 lastname-firstname-vpn.png.PNG
 ```
 
+You are not seeing file extensions on your laptop.
+
 This will not really be an issue when you are coding with a robust text editor like [Atom](https://atom.io/), or [VSCode](https://code.visualstudio.com/) as extensions will alway show up in the sidebar of the app, and you can rename files in the sidebar. However, if you are curious about how to show or hide extensions, here are some videos:
 
 * [Windows help](https://www.youtube.com/watch?v=PoTah9YBG2Y)
 * [Mac Help](https://www.youtube.com/watch?v=ylbme95jnEo)
-
-If you have time before class, make a short post on something you read about in one of your subscription newsletters, or anything else that interests you. I prefer that you make a forum post before doing your starter, but you may do the forum post after doing the starter, if you wish. (A forum post must backup your starter.) We need to try to get 2-3 short starters done each recitation class. (Otherwise, we will have too many students wanting to do them as the semester ends.)
-
-If you are having trouble finding the [Technology Review Newsletter signup](https://forms.technologyreview.com/the-download/) Subscription **<<< this link works**.
 
 
 ## Eduroam or VPN

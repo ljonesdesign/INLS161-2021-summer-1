@@ -29,7 +29,7 @@ The right sidebar will allow you to quickly find any section on an individual pa
 ### Assignments
 In the Top Navigation bar you will see the assignment links. All of the assignments are explained in the lesson sessions which are in the left sidebar. The assignment links will give you a quick way to jump to any assignment directions. 
 
-## Corporate Training Model
+## Class Sessions will be similar to Corporate Training Sessions
 I am an adjunct instructor and also work as a corporate trainer, so I will conduct this course much like a corporate training course. The goal for corporate training is to focus on the "need-to-know" skills and not focus as much on the "nice-to-know" concepts.  
 
 **This is a technology tools class.** In each class we will spend a few minutes covering a information tools concept and then you will perform an activity that will count towards your task completion. We will review that task then move to the text concept and repeat the process. *Disclaimer: There will be a few areas where we will need to discuss global concepts that will not have associated tasks.*

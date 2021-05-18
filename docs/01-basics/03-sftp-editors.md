@@ -4,6 +4,16 @@ sidebar_label: 05-21 Fri | SFTP & Editors
 sidebar_position: 3
 ---
 
+## Learning Objectives
+
+1. Go over GUI and CLI Basics and the impact that has on our tools we will use today and the next few weeks. 
+2. Go over the difference between SFTP and FTP and the difference between HTTP and HTTPS.
+3. Install an SFTP program and connect to opal and transfer some files back and forth.
+4. Install Text Editor
+5. Take time to finish and or correct problems with previous tasks
+
+## Task 01.05: Install an SFTP tool
+
 ### Recommended SFTP Programs
 
 Use any SFTP you like. Here are my personal preferences for teaching:
@@ -31,18 +41,13 @@ If you are not using Fetch or you are using a PC, skip to [slide 16](https://doc
 
 [![Here is a link to a Fetch Presentation on Google Slides](/img/fetch-google-slides-thumbnail.png)](https://docs.google.com/presentation/d/1QGQjVMvFS3-lIgMI4BoESXnRnmit-cV2_5p-5dYlFhU/edit?usp=sharing)
 
-## Recommended Text Editor
+## Task 01.06: Install a text editor
+
+### Recommended Text Editor
 
 Use any Text Editor you like. My personal preference for teaching for both **PC and Mac** is [Visual Studio Code](https://code.visualstudio.com/). This will be the best option for you if you do not already have a favorite editor. I do not recommend using textEdit on the Macintosh or Notepad on the PC or other very basic editors unless you are an advanced coder. (Notepad++ is an acceptable text editor).
 
-## Starters
+If you like Visual Studio Code, I would recommend installing [file Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) and [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 
-Hoping to have two or three of you do a starter this morning.
 
-## Learning Objectives
-
-1. Go over GUI and CLI Basics and the impact that has on our tools we will use today and next month. Will show you a short presentation and post the file for you after class.
-2. Go over the difference between SFTP and FTP and the difference between HTTP and HTTPS.
-3. Install an SFTP program and connect to opal and transfer some files back and forth.
-4. Install Text Editor
-5. Take time to finish and or correct problems with previous tasks.
+.
