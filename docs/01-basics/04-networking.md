@@ -45,7 +45,7 @@ IP4,[IPv6](http://www.internetsociety.org/what-we-do/internet-technology-matters
 
 ### [3. Packets Routers and reliability (less than 7 minutes)](https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-packet-routers-and-reliability)
 
-IP packets, routes, cheapest path, TCP, TCP/IP  ⇒[TCP Joke](01-04b-basics-tcp-joke.php)
+IP packets, routes, cheapest path, TCP, TCP/IP
 
 TCP inventory, acknowledgment, verification, sign, scaleable
 
