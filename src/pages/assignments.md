@@ -22,28 +22,3 @@ VA*    | Network Session                                                        
 04.00 | Working with Data                                                                   | Jun 20 | 20% | 75%
 05.00 | Professional Presentation                                                           | Jun 23 | 10% | 85%
 *Value Added | various activities that will include in-class participation and/or blog posts| Jun 23 | 15% | 100%
-
-
-## Task 01.01
-
-I will need to add you to the user list for you to access the class blog at infotools.web.unc.edu. I will wait until two days before the first day of class to do this.
-Make a Blog Post Introducing yourselves
-
-Your initial posting should be a repeat of what we did in class today. Include it it at least the following:
-
-1. your name and the name you prefer to be called
-2. your hometown (in whatever manner you chose to define the word "hometown")
-3. your class (first year, second, third, fourth, graduate student)
-4. your major
-5. what you hope to get out of this class
-
-Of course, you may add anything else that you wish.
-
-## Forum Posts
-
-Part of your Value Added grade is to make 5 posts on the class blog this summer session. These posts will introduce you to the workings of the WordPress Content management system available for use to all students and faculty. However, we will keep Wordpress training at a bare minimum in this class. Instead, we will focus on learning the basics of UNIX, HTML and CSS which will prove to be more profitable for you, and may give you the confidence to adapt or build your own WordPress theme someday.
-
-I will demo how to make a blog post today.
-We will open with a "Starter" in our next session
-
-If you would like to do a starter, make a blog post before class. 
