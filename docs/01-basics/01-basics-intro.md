@@ -15,11 +15,15 @@ The recommended browser for Sakai is [Firefox](https://www.mozilla.org/en-US/fir
 ## Forum Posts
 VALUE ADDED ITEM 
 
-**Forum posts 1-4:** Just put your forum post in the class blog. I will find and grade your posts from the blog.
-
 :::tip
 Including your name and forum post number in the title is not necessary and it obfuscates what the reader most needs&mdash;the title.
 :::
+
+Part of your Value Added grade is to make four posts on the class blog this summer session. These posts will introduce you to the workings of the WordPress Content management system available for use to all students and faculty. However, we will keep WordPress training at a bare minimum in this class. Instead, we will focus on learning the basics of UNIX, HTML and CSS which will prove to be more profitable for you, and may give you the confidence to adapt or build your own WordPress theme someday.
+
+I will demo how to make a blog post today.
+
+If you would like to complete your semi-formal forum post short presentation  to do a starter, make a blog post before class. 
 
 ## Comment on Peer's posts
 VALUE ADDED ITEM 
@@ -29,7 +33,7 @@ VALUE ADDED ITEM
 ## Starter
 VALUE ADDED ITEM 
 
-During the semester I will ask each of you to present one of your forum posts at the start of each class. Some of you will need to step up and get this done early and others will need to present at later dates. A starter has a chain of prerequisites that are not very time consuming, but they have to be done in this order:
+During the semester I will ask each of you to present one of your forum posts at the start of each class.  A starter has a chain of prerequisites that are not very time consuming, but they have to be done in this order:
 
 1. You need to subscribe to a tech newsletter
 2. You need to get a newsletter in your inbox
