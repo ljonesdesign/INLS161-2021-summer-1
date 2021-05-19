@@ -94,14 +94,11 @@ cd public_html
 Create a new subdirectory within public_html 
 
 ```
-mkdir task-screenshots
+mkdir task-screenshots 
 ```
+or 
 
-You are now ready to proceed to use SFTP to place your screenshots in this directory.
-
-
-**Grading rubric:** You must follow file naming conventions: **NO SPACES**; no strange characters. Use hyphens or periods where you would have spaces. Try to stick with lowercase letters. After you have created your directory, open the related assignment and paste your link in the submission box.
-
+You can name it anything you wish, but you must follow file naming conventions: **NO SPACES**; no strange characters. Use hyphens where you would have spaces. Try to stick with lowercase letters. After you have created your directory that will serve as your submission for Task 01.04.
 
 ## Helpful Links
 
