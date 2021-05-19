@@ -8,7 +8,7 @@ We will spend some time today to get to know each other.
 
 ## First tool: Browser
 
-The recommended browser for Sakai is [Firefox](https://www.mozilla.org/en-US/firefox/new/). [Google Chrome](https://www.google.com/chrome/) is also a good choice. You will need a web browser for testing your website; either of these will work just fine. Avoid using Mac specific (Safari) or Windows specific (Edge or Explorer) browsers as a primary testing tool for web development. 
+The recommended browsers for web development are [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Google Chrome](https://www.google.com/chrome/). You will need a web browser for testing your website; either of these will work just fine. Avoid using Mac specific (Safari) or Windows specific (Edge or Explorer) browsers as a primary testing tool for web development. 
 
 ## Value Added Grades
 

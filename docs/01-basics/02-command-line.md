@@ -4,6 +4,8 @@ sidebar_label: 05-20 Thu | Command Line
 sidebar_position: 2
 ---
 
+The file naming conventions detailed in the last session are copied over from the INLS 161 lectures and are fine. I follow web development recommendations, so my personal preferences are different. Here is a [post about my file naming conventions](/blog/file-naming-conventions).
+
 ## Eduroam or VPN
 
 Before we try to log into OPAL with a command line interface (CLI) you must have your VPN client installed and connected.
@@ -20,11 +22,13 @@ It's the <kbd>shift + backtick</kbd> under, or near, the <kbd>esc</kbd> key:
 
 ![tilde](/img/tilde.png).
 
-Open a browser and replace your **onyen** with your personal onyen. Example: **opal.ils.unc.edu/~kellyd**
+Open a browser and replace your **onyen** with your personal onyen. Example: **opal.ils.unc.edu/~kellyd.** 
+
+Mine is opal.ils.unc.edu/~lblakej: 
 
 ![browser with opal](/img/browser-opal.png)
 
-My onyen is lblakej. I have an account and I have set my permissions, so you can see my site directory: <https://opal.ils.unc.edu/~lblakej>
+I have an account and I have set my permissions, so you can see my site directory: <https://opal.ils.unc.edu/~lblakej>
 
 If you see **Forbidden** message, that means you have an account, but you have permission problems. Let me know in the Zoom chat if
 this is that case for you. This semester, the permissions should have been set for you.
