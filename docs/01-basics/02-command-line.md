@@ -79,22 +79,25 @@ After you have uploaded your files and set the correct permissions, your webpage
 
 ## Task 01.04: Create a Directory
 
-
 If not yet logged in to your OPAL account, use a terminal connection program and enter a temporary shell session at the command prompt (it should be $ in Unix).
 
 ```
 ssh onyen@opal.ils.unc.edu
 ```
+
 Change to your public_html directory.
+
 ```
 cd public_html
 ```
 
 Create a new subdirectory within public_html 
 
-```mkdir task-screenshots```
+```
+mkdir task-screenshots
+```
 
-You are now ready to use SFTP to place your screenshots in this directory.
+You are now ready to proceed to use SFTP to place your screenshots in this directory.
 
 
 **Grading rubric:** You must follow file naming conventions: **NO SPACES**; no strange characters. Use hyphens or periods where you would have spaces. Try to stick with lowercase letters. After you have created your directory, open the related assignment and paste your link in the submission box.
