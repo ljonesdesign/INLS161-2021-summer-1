@@ -110,7 +110,7 @@ Go to [ITS's VPN installation page](https://help.unc.edu/sp?id=kb_article&sys_id
 
 ![VPN login](/img/active-vpn-example.png)
 
-When you have successfully installed it on your device, put a screenshot of the installation in your [assignments space](https://sakai.unc.edu/x/EvvsGz) in Sakai to let us know that you have it.
+When you have successfully installed it on your device, put a screenshot of the installation in the Teams assignment, if you wish, but we will practice putting all of our screen shots on OPAL for practice, so either option will be fine.
 
 ### We may as well begin here to use a consistent file naming convention.
 
