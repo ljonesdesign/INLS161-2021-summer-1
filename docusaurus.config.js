@@ -30,6 +30,11 @@ module.exports = {
           label: 'Class Blog',
           position: 'right',
         },
+        {
+          href: 'https://sakai.unc.edu/x/nA0YY4',
+          label: 'Sakai',
+          position: 'right',
+        },
       ],
     },
     footer: {
