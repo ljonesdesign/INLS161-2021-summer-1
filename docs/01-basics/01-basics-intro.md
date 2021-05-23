@@ -8,8 +8,6 @@ We will spend some time today to get to know each other.
 
 ## First tool: Browser
 
-hello 
-
 The recommended browsers for web development are [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Google Chrome](https://www.google.com/chrome/). You will need a web browser for testing your website; either of these will work just fine. Avoid using Mac specific (Safari) or Windows specific (Edge or Explorer) browsers as a primary testing tool for web development. 
 
 ## Value Added Grades
@@ -51,7 +49,7 @@ Everything in this class is about empowering you to meet the complex demands of 
 
 [The difference between being nice and being kind](https://owenfitzpatrick.com/blog/difference-nice-kind/)
 
-> To err is human, to forgive is divine...
+> To err is human, to forgive is divine.
 
 
 ## Task 01.01 
