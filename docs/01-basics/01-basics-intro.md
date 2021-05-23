@@ -49,7 +49,7 @@ Everything in this class is about empowering you to meet the complex demands of 
 
 [The difference between being nice and being kind](https://owenfitzpatrick.com/blog/difference-nice-kind/)
 
-> To err is human, to forgive is divine.
+> To err is human, to forgive is divine...
 
 
 ## Task 01.01 
