@@ -56,3 +56,7 @@ Images, PDFs pages all must be in the root folder. Copy all of you images into t
 :::
 
 To log into opal with your SFTP program enter ```opal.ils.unc.edu``` for the server and your username is your ```onyen```. Your password is your onyen password. After you upload your folder to the public_html directory in opal, you will need to direct your browser to ```https://opal.ils.unc.edu/~youronyen``` to confirm it has uploaded correctly uploaded.
+
+## Task 02.01 Hard Code a HTML Page
+
+I will find your webpage and grade it, or you may post the link in Sakai Assignments page.
