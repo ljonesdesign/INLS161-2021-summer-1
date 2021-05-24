@@ -5,13 +5,13 @@ sidebar_position: 1
 ---
 
 ## Basics Wrap-up and Forum Post 1
-Please wrap up any outstanding Basics assignments very soon. You should not be locked out of forum posting if you have fallen behind. It is better to be late than to skip making a post. Don't post two posts in one folder. If you want to make extra posts more often, go to the next folder. This is important for grading.
+Please wrap up any outstanding Basics assignments very soon. It is better to be late than to skip making a post.
 
 ## Hard Code a Web Page
 
 1. Right click on your desktop and create a folder.
 2. Name the folder task02-01.
-3. Open up your text editor. (It is helpful to use a text editor that has a project sidebar to follow along in class. VS Code and Brackets show project files in a sidebar. If you are using a non-sidebar editor, you will need to create files and save them in the finder (Mac) or explorer (PC). I will demo both in class.
+3. Open up your text editor. (It is helpful to use a text editor that has a project sidebar to follow along in class. VS Code and similar IDE type editors will show project files in a sidebar. If you are using a non-sidebar editor, you will need to create files and save them in the finder (Mac) or explorer (PC). I will demo both in class.
 4. Open the folder:
    * Drag the folder onto your text-editor side bar,
    * or choose to open the folder using the menu or icons.
