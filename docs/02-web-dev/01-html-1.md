@@ -7,6 +7,8 @@ sidebar_position: 1
 ## Basics Wrap-up and Forum Post 1
 Please wrap up any outstanding Basics assignments very soon. It is better to be late than to skip making a post.
 
+Before we dive into hard coding, I will demonstrate how HTML works in the WordPress system. This will show you how to place images and links and embed other media type in your posts.
+
 ## Hard Code a Web Page
 
 1. Right click on your desktop and create a folder.
