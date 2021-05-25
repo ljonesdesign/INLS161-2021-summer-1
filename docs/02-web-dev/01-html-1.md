@@ -59,20 +59,18 @@ To log into opal with your SFTP program enter ```opal.ils.unc.edu``` for the ser
 
 ## Task 02.01 Hard Code a HTML Page
 
-This task has three components
+*This task has three components*
 
-The first component is to demonstrate some hard coding skills with HTML
+### 1. Create Single HTML page
 
-Start off by showing a little facility with hard coding by creating a single web page to prepare ourselves for the main task
+Create an initial hard-coded homepage we will use in class to practice other skills. Use a basic text editor and type in the text on the tags page of the HTML session class notes.
 
-Create an initial hard-coded homepage, a page we will use in class to practice other skills. Use a basic text editor and type in the text on the tags page of the HTML session class notes.
+### 2. SFTP
 
-### Condition
+SFTP the entire "task02-01" folder into a directory on opal day before the CSS session, Task 02.01 is required just to compel you to get the concept of hard coding.
 
-SFTP the entire "task02-01" folder into a directory on opal day before the CSS session, and tell your lab/recitation instructor to look at it. Task 02.01 is required just to compel you to get the concept of hard coding.
-
-## Standard
+### 3. Standard: Must Validate
 
 Your hard coded page must validate using the [W3C Markup Validation Service](https://validator.w3.org/). There must be no errors in your code.
 
-I should be able to see your site on Opal.
+I should be able to find your site at your Opal Account. Use the suggest folder name of ```task02.01``` or something similar so that I don't have to dig to find your hard coded page. Make sure you have no spaces in your directory name and that you follow proper file naming conventions.
