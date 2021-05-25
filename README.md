@@ -1,8 +1,8 @@
-# INLS161-2021-spring
+# INLS161-2021-Summer
 2021 Recitation Notes
 
 ## Site
-https://ljonesdesign.github.io/INLS161-2021-summer-1/docs/
+https://ljonesdesign.github.io/INLS161-2021-summer-1/
 
 
 ## Cheatsheet items
