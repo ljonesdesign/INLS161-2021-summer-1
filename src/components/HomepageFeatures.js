@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/teams.svg').default,
     description: (
       <>
-        Log into  <a href="https://teams.microsoft.com/l/team/19%3aXHjCnlzJonjw-RAOlUL7U6JZAunhj5B1oGd7Ag9avXU1%40thread.tacv2/conversations?groupId=8434e686-c44c-416f-8356-a493720efabf&tenantId=58b3d54f-16c9-42d3-af08-1fcabd095666">Teams</a> to submit assignments and access important class information and resources.
+        Log into  <a href="https://teams.microsoft.com/l/team/19%3aXHjCnlzJonjw-RAOlUL7U6JZAunhj5B1oGd7Ag9avXU1%40thread.tacv2/conversations?groupId=8434e686-c44c-416f-8356-a493720efabf&tenantId=58b3d54f-16c9-42d3-af08-1fcabd095666">Teams</a> for messaging if you like.
       </>
     ),
   },
