@@ -16,7 +16,7 @@ Task | Description | Due date | Value | Running Total
 01.06 | [Install Text editor](docs/basics/sftp-editors#task-0106-install-a-text-editor)     | May 23 | 2% | 10%
 VA*    | Network Session                                                                    | May 24 |  VA | VA
 02.01 | [Hardcode HTML Page](docs/web-dev/html-1#task-0201-hard-code-a-html-page)           | May 25 | 1% | 11%
-02.02 | Connect CSS page                                                                    | May 26 | 1% | 12%   
+02.02 | [Connect CSS page](docs/web-dev/css-1/#task-0202-link-to-css-stylesheet-in-your-hardcoded-page)| May 28 | 1% | 12%   
 02.03 | [Completed Web Site](docs/web-dev/web-checklist)                                    | Jun 06 | 28% | 40%
 03.00 | Document Markup                                                                     | Jun 12 | 15% | 55%
 04.00 | Working with Data                                                                   | Jun 20 | 20% | 75%
