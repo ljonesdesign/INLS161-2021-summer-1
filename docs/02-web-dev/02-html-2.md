@@ -24,12 +24,10 @@ I created a HTML-CSS-JavaScript Notebook for you this morning. You can get it in
 6. Launch your SFTP program and drag it to your desktop.
 7. Use it as a place to store code samples etcetera. You do not have to put it back up on OPAL. But I would enjoy seeing your notes! You may delete the folder on OPAL after you download it to you computer.
 
-
-
-## Navigation
-
+## HTML Semantic Elements
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) *This is a "nice to know" for this class, but a need to know if you are going to seriously pursue web development.* I want to specifically point out the ```<article>``` element, as ```<article>``` is in the EZ template. The EZ template will validate, but it is not perfectly semantic.
 
+## Navigation
 Navigation design basics are the most crucial next step to learn after getting HTML structure down. Navigation design is complicated. Especially when building responsive sites. We don't have time to go into the fine details, but I do want to go over some absolute basics. You do not have to follow along with me, but I will create a project and demonstrate this in class. It's your choice follow along or just watch. If you complete this task and post it on opal it will give you credit for both task 02.01 and 02.02, so if you are behind, you can get caught up today.
 
 ## EZ Template
