@@ -35,6 +35,6 @@ Below are a few examples of my own templates that some students have used from p
 * [Background Photo Sample](https://opal.ils.unc.edu/~lblakej/website-helps/08-photo-background-example/index.php)
 * [Download Bootstrap-based Photo Theme template](https://opal.ils.unc.edu/~lblakej/website-helps/08-photo-background-template.zip)
 
-A lot of students also used templates from the [sources on the class web site](https://ils.unc.edu/courses/2021_spring/inls161_001/06a.01.preps.html).
+A lot of students also used templates from the [sources on the Spring 2020 class lecture page](https://ils.unc.edu/courses/2021_spring/inls161_001/06a.01.preps.html).
 
 In class we will download some different themes and discuss all of elements that you will need to include in your website to earn full points. The class will be recorded.
