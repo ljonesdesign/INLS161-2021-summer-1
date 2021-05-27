@@ -9,7 +9,7 @@ sidebar_position: 6
 
 If you decided to download a template from the web, here is a video that will show you how you might set it up for your 02.03 project:
 
-
+If you cannot see the embedded video, you need to log into [UNC Panoto](https://uncch.hosted.panopto.com/)
 <iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=8faca4a6-80e4-4ed4-889a-aceb01351480&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
 />
 
