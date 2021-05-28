@@ -16,7 +16,7 @@ Control+F (PC) and Command+F (Mac) will help you find what you are looking for o
 
 1. Use Word to export a real or example **resume** in pdf format. Save it to your web project folder. Not sure about this? [See this video](https://www.youtube.com/watch?v=3Y-GeTi472A).
 
-2. Find a **template**, verify it works for you and start building your site. See templates in the left sidebar for  for more information.
+2. Find a **template**, verify it works for you and start building your site. See **templates** in the left sidebar more information.
 
 3. Confirm you have a **home page file named** ```index.html```. You *should not* have a file named ```home.html```. If you are using a one page type of theme, you will create sections. If you are using a multi-page theme, you will create pages.
 

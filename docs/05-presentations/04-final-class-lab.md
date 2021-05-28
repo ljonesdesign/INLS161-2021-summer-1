@@ -1,6 +1,6 @@
 ---
 title: Final Student Presentations
-sidebar_label: 06-21 | Final Class Lab
+sidebar_label: 06-21 Mon | Final Class Lab
 sidebar_position: 4
 ---
 

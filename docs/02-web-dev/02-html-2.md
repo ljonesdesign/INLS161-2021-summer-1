@@ -16,17 +16,18 @@ Your home page, or initial page should always be named ```index.html```. the ```
 
 I created a HTML-CSS-JavaScript Notebook for you this morning. You can get it in a few easy steps:
 
-1. Launch your terminal. (Assuming that you have VPN connection.)
-2. Log into OPAL.
-3. ```cd public_html```
-4. Copy code below:
+1. Connect with VPN if you have not already done so. 
+2. Launch your terminal. I will demo with VS Code.
+3. Log into OPAL.
+4. ```cd public_html```
+5. Copy code below:
 ``` 
     git clone https://github.com/ljonesdesign/web-dev-class-notes.git
 ```
-5. Paste into your terminal and press the enter/return key. (You and keep terminal open or close it.
-6. Launch a browser and see it live on your site!
-7. Launch your SFTP program and drag it to your desktop.
-8. Use it as a place to store code samples etcetera. You do not have to put it back up on OPAL. But I would enjoy seeing your notes! You may delete the folder on OPAL after you download it to you computer.
+6. Paste into your terminal and press the enter/return key. (You and keep terminal open or close it.
+7. Launch a browser and see it live on your site!
+8. Launch your SFTP program and drag it to your desktop.
+9. Use it as a place to store code samples etcetera. You do not have to put it back up on OPAL. But I would enjoy seeing your notes! You may delete the folder on OPAL after you download it to you computer.
 
 ## HTML Semantic Elements
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) *This is a "nice to know" for this class, but a need to know if you are going to seriously pursue web development.* I want to specifically point out that the ```<article>``` element is an HTML semantic element and can be found in the EZ template. (The EZ template will validate, but it is not perfectly semantic.)
