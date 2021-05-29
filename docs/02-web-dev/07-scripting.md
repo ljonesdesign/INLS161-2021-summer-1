@@ -4,10 +4,7 @@ sidebar_label: 06-02 Wed | Scripting
 sidebar_position: 7
 ---
 
-## Recordings for 601 and 603 Recitations
-The raw recordings are now in [UNC Panoto](https://uncch.hosted.panopto.com)
-
-## Client Side Script (JavaScript)
+Client Side Script (JavaScript)
 
 I will demonstrate how you can implement some of these javascript samples shown here:
 
