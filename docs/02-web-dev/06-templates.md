@@ -7,11 +7,12 @@ sidebar_position: 6
 
 ## Working with Templates
 
-If you decided to download a template from the web, here is a video that will show you how you might set it up for your 02.03 project:
+If you decided to download a template from the web, here is a video that will show you how you might set it up for your 02.03 project. If you don't want to create the additional pages for the third level task, you can copy the [JavaScipt tabs from EZ template here](https://opal.ils.unc.edu/~lblakej/website-helps/09-EZ-template/classes.html).
 
 If you cannot see the embedded video, you need to log into [UNC Panoto](https://uncch.hosted.panopto.com/)
-<iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=8faca4a6-80e4-4ed4-889a-aceb01351480&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all'
-/>
+
+<div class='embed-container'><iframe src='https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=8faca4a6-80e4-4ed4-889a-aceb01351480&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
+
 
 Below are a few examples of my own templates that some students have used from past classes (these have the mobile friendly settings in the ```<head>```).
 
