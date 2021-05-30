@@ -4,6 +4,8 @@ sidebar_label: 06-04 Fri | Website Lab
 sidebar_position: 9
 ---
 
+There may be some of you that are almost done with your web Project so you may begin working on your Documents project today and this weekend. Some books work better than others, so if you don't want to spend a lot of time looking for an appropriate book, you can [choose a book from this list](https://github.com/ljonesdesign/gutenberg-books).
+
 Here is a checklist that you can use to make sure you have all the parts of your website done before posting to OPAL and submitting.
 
 :::tip Grading Point Scale
