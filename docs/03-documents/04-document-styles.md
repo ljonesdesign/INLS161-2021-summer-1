@@ -23,7 +23,7 @@ This will be a style created for this document's use.
 ![fonts graphic](/img/fonts.png)
 
 ## Task 3.07 Make all Primary Text
-Select all text and apply the ```Task03Content``` style
+**Select all text and apply the ```Task03Content``` style**
 
 ## Task 3.08.01 Footnotes Style
 Create a new style called **Task03Footnotes** based on the Task03Content style,
@@ -34,9 +34,11 @@ Create a new style called **Task03Footnotes** based on the Task03Content style,
 5. no first line indentation
 
 ## Task 3.08.02 Insert Footnote
-Insert a Footnote and Format it with the style that you just created.
-If you have any footnotes in the document, format them in your new Task03Footnotes style.
-If you don't, you still need to create the new style and insert a footnote that includes the words *an example of the new footnote style* somewhere in the document
+**Insert a Footnote and Format it with the style that you just created.**
+
+If you have any footnotes in the document, format at least one of them in your new Task03Footnotes style.
+If you don't, you still need to create the new style and insert a footnote that includes the words <span class="highlight">an example of the new footnote style</span> in the first full page of the first chapter. Apply the footnote at the end of a word in the text.
+
 To insert a footnote click your cursor into the text at the end of a sentence or at a word that you might want to footnote. **Do not put your footnote in the footer.** The footnote will be automatically created for you at the bottom of the page, *above the footer*.
 
 ![footnote image](/img/footnote.svg)
