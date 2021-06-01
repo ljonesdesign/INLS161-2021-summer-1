@@ -28,6 +28,7 @@ For example, if you choose [this sample](https://www.w3schools.com/js/tryit.asp?
 
 My one page theme, based on the bootstrap framework, also has [magnific popup javascript plugin](https://dimsemenov.com/plugins/magnific-popup/). If you use the portfolio example with your own photos, then you can get credit if you make the photos pop up from the portfolio. If you don't use the portfolio, you can also use the magnific popup to get credit if you can make your single photo pop up. Check out the help info at [magnific site documentation](https://dimsemenov.com/plugins/magnific-popup/documentation.html) for help if you want to try this.
 
+[Magnific Popup Example for EZ Template](https://opal.ils.unc.edu/~lblakej/website-helps/10-image-popup/)
 
 ## Server Side Script (Google Font example)
 
