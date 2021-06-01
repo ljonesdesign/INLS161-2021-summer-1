@@ -25,7 +25,7 @@ Below are a few examples of my own templates that some students have used from p
 * [Download one page template](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/one-page-green-starter-theme.zip)
 * [Download OnePageQuickStart.docx](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/OnePageQuickStart.docx)
 * [One Page Theme Help FAQ](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/FAQ-help-files/readme.html)
-* [PowerPoint Crop and Scale file](powerpoint-crop-and-scale.pptx) This does not work perfectly because you cannot fine-tune the exact pixel dimensions. I will come up with a better solution for UX/images class.
+* [PowerPoint Crop and Scale file](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/powerpoint-crop-and-scale.pptx) This does not work perfectly because you cannot fine-tune the exact pixel dimensions. I will come up with a better solution for UX/images class.
 
 
 ### Multiple Page Template ([Skeleton Boilerplate](http://getskeleton.com/))
