@@ -26,9 +26,10 @@ Below are a few examples of my own templates that some students have used from p
 * [Download OnePageQuickStart.docx](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/OnePageQuickStart.docx)
 * [One Page Theme Help FAQ](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/FAQ-help-files/readme.html)
 * [PowerPoint Crop and Scale file](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/powerpoint-crop-and-scale.pptx) This does not work perfectly because you cannot fine-tune the exact pixel dimensions. I will come up with a better solution for UX/images class.
+* Hacking the One Page theme to [Make the Portfolio images into outbound links](https://opal.ils.unc.edu/~lblakej/website-helps/03a-hacked-portfolio-ext-links/)
 
 
-### Multiple Page Template ([Skeleton Boilerplate](http://getskeleton.com/))
+### Multiple Page Template ([Skeleton Boilerplate](http://getskeleton.com/)
 * [Multiple page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/05-multi-page-final-sample/)
 * [Download multiple page template](https://opal.ils.unc.edu/~lblakej/website-helps/06-multi-page-source-files/multi-page-template.zip)
 
