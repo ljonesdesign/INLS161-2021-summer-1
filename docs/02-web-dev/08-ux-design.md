@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## Images
 
-For large companies and organizations, images, design, and accessibility issues are a huge part of the design process. It takes a lot of time, money, and energy to envision and create sophisticated imagery, especially while meeting accessibility guidelines. So we are not going to go very deep or wide today. Most of this information will only as reference, but we will take a closer look at some of these items. 
+For large companies and organizations, images, design, and accessibility issues are a huge part of the design process. It takes a lot of time, money, and energy to envision and create sophisticated imagery, especially while meeting accessibility guidelines. So we are not going to go very deep or wide today. Most of this information will seerve only as reference material, but we will take a closer look at some of these items. 
 
 **This page is meant to be overwhelming. If you want to be a UX Designer you have a lot to learn!**
 
