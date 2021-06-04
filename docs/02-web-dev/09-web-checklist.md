@@ -95,7 +95,7 @@ Don't use an absolute URL (contains an http:// link) to point to your resume on 
 
 17. One **server side script**. (Google Form or Google Fonts or Google analytics.)
 
-18. Make sure that **all of your images** have ```alt=&quot;Description&quot;``` attributes.
+18. Make sure that **all of your images** have ```"Description"``` attributes.
 
 19. Verify that you **do not have any spaces in file or folder names**. *I count this as failed validation score.*
 
