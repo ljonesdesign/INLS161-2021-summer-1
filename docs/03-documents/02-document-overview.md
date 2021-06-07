@@ -4,6 +4,9 @@ sidebar_label: 06-07 Mon 2 | Overview
 sidebar_position: 2
 ---
 
+## New Content for Summer School
+[I came up with this just before this class!](https://github.com/ljonesdesign/vs-code-search-replace) I think it will be helpful to see the bigger picture of how search and replace works in other contexts other than MS Word.
+
 ## Mac Help
 
 [Macintosh screenshots for the setup section](https://github.com/lblakej/document-markup-mac-help/blob/master/docs-mac-project-part-1/README.md) *Mac Help is additional information to help Mac Users with the differences in Word Mac and Word for Windows. Mac Users should not depend 100% on following the steps in the mac help sections. Check your work against the steps in this page and the following pages, and use the grade sheet for a final check.*
