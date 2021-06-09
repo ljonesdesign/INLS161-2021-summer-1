@@ -15,8 +15,13 @@ We will glance over the [Spring 2021 lecture notes](https://ils.unc.edu/courses/
 You are to download (see below) and modify several existing worksheets to make them a more useful product. To be specific, these worksheets are collected from a variety of publicly available data provided by the US government in spreadsheet form.
 
 The 04-task will require you show capability with a number of data management skills
-
-* [cell and worksheet](https://support.microsoft.com/en-us/office/quick-start-format-a-worksheet-d70f75a2-23e6-4c92-83d6-2f219e4ad42e) formatting
+* [create new worksheets](https://support.office.com/en-US/article/Insert-or-delete-a-worksheet-19d3d21e-a3b3-4e13-a422-d1f43f1faaf2)
+* [cell formatting](https://support.microsoft.com/en-us/office/change-the-format-of-a-cell-0a45ff85-ee24-4276-94e8-aed6083e8050?ui=en-us&rs=en-us&ad=us)
+* [cell and worksheet formatting](https://support.microsoft.com/en-us/office/quick-start-format-a-worksheet-d70f75a2-23e6-4c92-83d6-2f219e4ad42e)
+* [validate data](https://support.office.com/en-US/article/Video-Validate-cell-data-82cfacc1-46ed-400f-863d-1ee0400f5fa7)
+* [freeze panes](https://support.office.com/en-us/article/Freeze-panes-to-lock-rows-and-columns-dab2ffc9-020d-4026-8121-67dd25f2508f) 
+* [hide and un-hide data](https://support.office.com/en-US/article/Video-Hide-or-unhide-columns-95146525-ce4f-4ff6-a118-c0724deb1a98)
+* [print rows with column headers each page](https://support.office.com/en-US/article/Print-rows-with-column-headers-on-top-of-every-page-D3550133-F6A1-4C72-AD70-5309A2E8FE8C) (only on the format worksheet, not all the other worksheets.)
 * building [formulas](https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173) and using [functions](https://support.microsoft.com/en-us/office/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb) that will include some of the following: [max](https://support.office.com/en-US/article/MAX-function-E0012414-9AC8-4B34-9A47-73E662C08098) | [min](https://support.office.com/en-US/article/MIN-function-61635D12-920F-4CE2-A70F-96F202DCC152) | [average](https://support.office.com/en-US/article/AVERAGE-function-047BAC88-D466-426C-A32B-8F33EB960CF6) | [sum](https://support.office.com/en-US/article/SUM-function-043E1C7D-7726-4E80-8F32-07B23E057F89) | [count](https://support.office.com/en-us/article/COUNT-function-a59cd7fc-b623-4d93-87a4-d23bf411294c) | [countblank](https://support.office.com/en-us/article/COUNTBLANK-function-6a92d772-675c-4bee-b346-24af6bd3ac22) | [countif](https://support.office.com/en-us/article/COUNTIF-function-e0de10c6-f885-4e71-abb4-1f464816df34)
 * [Conditional Formatting](https://support.microsoft.com/en-us/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?redirectSourcePath=%252fen-us%252foffice%252f34402f91-c7e7-4060-944c-65d913033d18&ui=en-US&rs=en-US&ad=US)
 * converting raw data into [charts/data displays](https://support.office.com/en-US/article/Video-Create-charts-231c42d2-5e58-40e1-99f0-cbe618cfee1d)
