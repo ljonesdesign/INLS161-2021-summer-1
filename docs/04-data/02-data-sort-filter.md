@@ -14,7 +14,6 @@ This session is being revised. It will be similar to the below examples.
 * Mac Video from previous class (different data; same concept):
 [![Single-level sort](/img/sort-video.png)](https://ils.unc.edu/courses/2019_spring/inls161_001/videos/spreadsheet-drafts/4.22-single-level-sort.mp4)
 
-
 ## Sort: multi-level
 
 1. Sort the data rows on the ```14-SORT STATE, THEN YEAR``` worksheet
@@ -50,5 +49,5 @@ Filters are powerful. Do another one:
 
 ## Pivot Table
 
-Too much detail on this page to condense here so here is the link to the [Pivot Table Task on Class Web Page](https://ils.unc.edu/courses/2021_spring/inls161_001/13b.03.pivot-tables.html)
+Too much detail on this page to condense here so here is the link to the [Pivot Table Task on 2021 Spring Semester Lecture Web Page](https://ils.unc.edu/courses/2021_spring/inls161_001/13b.03.pivot-tables.html)
 
