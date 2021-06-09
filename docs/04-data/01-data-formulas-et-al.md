@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ## Spreadsheet Overview
 
-We will glance over the [Spring 2021 lecture notes](https://ils.unc.edu/courses/2021_spring/inls161_001/11a.01.preps.html]).
+We will glance over the [Spring 2021 lecture notes](https://ils.unc.edu/courses/2021_spring/inls161_001/11a.01.preps.html).
 
 **Just discovered this:** the University of Michigan Library has a very nice [Excel Overview](https://guides.lib.umich.edu/excel)
 
-## Data Module Task 03 Overview
+## Data Module Task 04 Overview
 
 You are to download (see below) and modify several existing worksheets to make them a more useful product. To be specific, these worksheets are collected from a variety of publicly available data provided by the US government in spreadsheet form.
 
