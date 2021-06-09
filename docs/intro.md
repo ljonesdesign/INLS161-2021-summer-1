@@ -63,5 +63,5 @@ If you plan to attend all classes you can skip over all of these bullets. If you
 However, if you need general help, or help accessing the Panopto videos, then do reach out to me.
 
 ## Teaching Philosophy
-I recently completed my Master Degree in Adult Education in Training and Development. I do not see myself as an authoritarian, but as a facilitator. Therefore, I do not require excuses or letters from doctors, etcetera. I will be as flexible with you as possible, but it is very difficult to catch up if you fall behind in summer school.
+I recently completed my Master's Degree in Adult Education in Training and Development. I do not see myself as an authoritarian, but as a facilitator. Therefore, I do not require excuses or letters from doctors, etcetera. I will be as flexible with you as possible, but it is very difficult to catch up if you fall behind in summer school.
 
