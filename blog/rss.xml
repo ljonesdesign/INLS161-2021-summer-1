@@ -4,9 +4,16 @@
         <title>INLS 161-001 Summer 2021 Blog</title>
         <link>https://ljonesdesign.github.io./blog</link>
         <description>INLS 161-001 Summer 2021 Blog</description>
-        <lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Responsive Google Form Embed]]></title>
+            <link>https://ljonesdesign.github.io./INLS161-2021-summer-1/blog/responsive-google-form-embed</link>
+            <guid>responsive-google-form-embed</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you want your Google Form to validate without any errors or warnings, you can make these changes:]]></description>
+        </item>
         <item>
             <title><![CDATA[File Naming Conventions]]></title>
             <link>https://ljonesdesign.github.io./INLS161-2021-summer-1/blog/file-naming-conventions</link>

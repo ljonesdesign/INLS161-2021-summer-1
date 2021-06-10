@@ -1,0 +1,1 @@
+(self.webpackChunkinls_161_2021_summer_1=self.webpackChunkinls_161_2021_summer_1||[]).push([[253],{3125:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/INLS161-2021-summer-1/blog/tags","slug":"google-form","name":"google form","count":1,"permalink":"/INLS161-2021-summer-1/blog/tags/google-form"}')}}]);

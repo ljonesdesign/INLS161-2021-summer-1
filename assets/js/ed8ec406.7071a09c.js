@@ -1,0 +1,1 @@
+(self.webpackChunkinls_161_2021_summer_1=self.webpackChunkinls_161_2021_summer_1||[]).push([[371],{6976:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/INLS161-2021-summer-1/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
