@@ -4,11 +4,17 @@ sidebar_label: 06-14 Mon | Data Display
 sidebar_position: 4
 ---
 
-:::tip Link to Very Specific Steps for Required Tasks
-Class website link: [Value to Categories](https://ils.unc.edu/courses/2021_spring/inls161_001/12b.02.chart01.html) 
-:::
+## General Observations
+Creating charts begins as if you were preparing to sort or filter. Therefore, start by selecting all **adjacent** data exactly as you did with sorts and filters. Even if the instuctions are asking you to only show one or two columns of data, select all the columns. This will work for our our project because there are not too many columns. **We can use the Chart Wizard to deselect the columns we don't want to show.**
 
-Below is a general overview of what we are doing.
+However, this is not a good approach if you have data that has very many columns and you just need to select a few. In those cases, you will need to select **non-adjacent** data.
+
+Here is a link from Microsoft which goes into greater depth on the different ways to [select data for charts](https://support.microsoft.com/en-us/office/select-data-for-a-chart-in-excel-for-mac-22157ba1-9475-45b2-9cc4-f84abaff1b67).
+
+
+:::tip Link to Specific Steps for Required Tasks
+We will use the Spring 2021 lecture page link from last semester: [Value to Categories](https://ils.unc.edu/courses/2021_spring/inls161_001/12b.02.chart01.html) 
+:::
 
 ## 18-Chart 1 Data: Compare Value to Categories
 
