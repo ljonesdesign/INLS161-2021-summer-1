@@ -4,6 +4,10 @@ sidebar_label: 06-15 Tue | Relational Databases
 sidebar_position: 5
 ---
 
+## Database Theory is Challenging
+
+It is not likely that you will absorb any of information in [this video on Entity Relationship Design](https://www.youtube.com/watch?v=ZBgXb66Ckz0) without first being exposed to some database examples. So that is what we will do today: we will focus on getting the project done. You will learn by doing. Tomorrow we can go into more depth regarding the bigger picture regarding databases. The VLOOKUP function in Excel seems complicated, but compared to SQL, it is pretty easy because it walks you through the steps. There is not a help step in SQL. You just have to know it, or have a cheat sheet. We will use a cheat sheet!
+
 ## Relative, Absolute, and Mixed References
 
 Before we discuss the VLOOKUP function, we need to be aware of absolute and relative cell references. If you want to learn more:
