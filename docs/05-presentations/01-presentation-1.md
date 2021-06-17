@@ -1,8 +1,12 @@
 ---
-title: Presentation Design & Delivery
+title: Presentation Design (& Delivery)
 sidebar_label: 06-17 Thu | Presentation 1
 sidebar_position: 1
 ---
+
+During the regular semester, I normally only have one 75 minute class for presentation and delivery. Therefore, I will probably cover all requirements in today's class for both presentation and delivery. Tomorrow we will review the final recording process, which is pretty easy once you get the hang of it. So tomorrow will be a lab opportunity where you can continue to work on your project and get help and share screens if you like.
+
+The grade sheet is now linked to your Summer Sakai course and can be downloaded. Below is a checklist that expands upon the grade sheet.
 
 :::note
 Carefully following the grading rubric allows you to do very well on this project even if being creative is challenging for you.
