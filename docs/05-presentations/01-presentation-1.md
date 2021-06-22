@@ -67,7 +67,7 @@ Failure to follow the grading rubric might result in a poor grade even if you ar
 21. *Overall check:* Formatting from slide to slide is consistent.
 22. *Overall check:* Slides are easy to read and presentation friendly.
 23. *Document your process to some extent:* Use the speaker's notes to discuss the creative decisions you used. Not required for each slide. Does not need to be a lot of text.
-24. You may also want to reduce your images sizes in PowerPoint to [reduce the overall file size](/img/reduce-filesize.png). 
+24. You may also want to reduce your images sizes in PowerPoint to [reduce the overall file size](/img/reduce-file-size.png). 
 
 ## Hints and Helps
 
