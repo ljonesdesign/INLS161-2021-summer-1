@@ -1,5 +1,5 @@
 ---
-title: 2020 Summer Schoo Session l Data Lab
+title: 2021 SS1 Data Lab
 sidebar_label: 06-16 Wed | Data Lab
 sidebar_position: 6
 ---
